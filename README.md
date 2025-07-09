@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mrorz-mcp-git-commit-aider-badge.png)](https://mseep.ai/app/mrorz-mcp-git-commit-aider)
+
 # git-commit-aider MCP Server
 
 Make git commits on behalf of AI, so that you can track AI contribution in your codebase.
